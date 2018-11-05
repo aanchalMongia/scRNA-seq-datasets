@@ -6,7 +6,7 @@ Raw data with annotations
 
 2. Jurkat: Zheng, G. X.et al.Massively parallel digital transcriptional profiling of single-cells.Nat. communications8, 14049 (2017)
 
-3.Kolodziejczyk: Kolodziejczyk, A. A.et al.Single-cell rna-sequencing of pluripotent states unlocks modular transcriptional variation.Cellstem cell17, 471–485 (2015).
+3. Kolodziejczyk: Kolodziejczyk, A. A.et al.Single-cell rna-sequencing of pluripotent states unlocks modular transcriptional variation.Cellstem cell17, 471–485 (2015).
 
 4. Preimplantation: Yan, L.et al.Single-cell rna-seq profiling of human preimplantation embryos and embryonic stem cells.Nat. structural &molecular biology20, 1131–1139 (2013).
 
