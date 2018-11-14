@@ -1,6 +1,7 @@
 # scRNA-seq-datasets
 
-Annotation filea are available in this repository. 
+Annotation files are available in this repository. 
+
 Link to raw data : [click_here](https://drive.google.com/drive/folders/1q2ho_cNfsQJNbdCt9j0nwlZv-Roj_yK1?usp=sharing)
 
 Raw data with annotations 
